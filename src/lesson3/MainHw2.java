@@ -3,7 +3,7 @@ package lesson3;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Main {
+public class MainHw2 {
     static Scanner sc;
 
     public static void main(String[] args) {
