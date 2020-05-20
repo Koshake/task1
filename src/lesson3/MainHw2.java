@@ -12,8 +12,6 @@ public class MainHw2 {
         // 1 Угадать число
         guessPassword();
 
-        sc.reset();
-
         // 2 Угадать слово
         String[] words = {"apple", "orange", "lemon", "banana", "apricot",
                 "avocado", "broccoli", "carrot", "cherry",
