@@ -1,3 +1,5 @@
+package lesson1;
+
 import com.sun.deploy.security.SelectableSecurityManager;
 
 import java.sql.SQLOutput;
